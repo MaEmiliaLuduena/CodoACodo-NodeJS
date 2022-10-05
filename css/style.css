@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.gray-bg {
+  background-color: #353a40;
+}
+
+.contenedor-titulo-carousel {
+  position: absolute;
+  z-index: 100;
+  background-color: #00000080;
+}
+
+.box-honolulu {
+  height: 70vh;
+}
+
+u {    
+  border-bottom: 1px dotted #000;
+  text-decoration: none;
+}
+
+.btn-color {
+  color: #fff;
+  background-color: #97c93c;
+  border: none; 
+  padding: .5em;
+  border-radius: 5px;
+}
+
+.btn-color:hover {
+  background-color: #8cb939;
+}
+
+.footer {
+  background-color: #1d3947;
+}
